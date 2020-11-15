@@ -20,7 +20,7 @@ pip install -r requirements.txt
 <b>Step 5: Run the app<br></b>
 python flask_app.py
 
-<b>Step 9: Execute requests on http://localhost:5000/predict_api/<br></b>
+<b>Step 6: Execute requests on http://localhost:5000/predict_api/<br></b>
 Or on he url where your app is running
 
 <b>Note :</b> You can also run request.py file in another instance of Anaconda Prompt while the app.py server is running.
